@@ -3,12 +3,12 @@
 This is a JSON based INVENTORY MANAGEMENT SYSTEM using python.
 
 
-The project is basically divide into four portion.
+    The project is basically divide into four portion.
     1st portion is for storing the written records into a JSON file. I have taken four different categories and created 4 different Json file.
     
     2nd portion is for insertion of new products in the inventory. 
     
-    3rd portion is for updating information related to already existing product in the inventory. Whch is also I have divided into 2 parts:
+    3rd portion is for updating information related to already existing product in the inventory. Which is also I have divided into 2 parts:
          1st updation of price.
          2nd updation of quantity.
       
